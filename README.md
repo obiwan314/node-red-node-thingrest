@@ -11,6 +11,11 @@ this is ~/.node-red .
 
         npm install node-red-node-thingrest
 
+        or direct from github at
+
+        npm install git+https://git@github.com/obiwan314/node-red-node-thingrest.git
+
+
 Usage
 -----
 
@@ -21,6 +26,9 @@ Provides a single node - It accepts a msg.payload containing an object whose pro
 This node acts as an output node. It expects to receive an msg object with a property of payload that maps directly to the Thing you are trying to update.
 
 **Example**:
+
+If the Thing you are trying to update has a String property called stringProperty and a Number property called numberProperty, the following payload would  update these property values.
+
 msg.payload = {
 	stringProperty:"Hello World",
 	numberProperty:345	
