@@ -1,7 +1,7 @@
 node-red-node-thingrest
 =====================
 
-A <a href="http://nodered.org" target="_new">Node-RED</a> node to talk to ThingWorx using HTTP REST protocol.
+A <a href="http://nodered.org" target="_new">Node-RED</a> node to talk to <a href="http://www.thingworx.com" target="_new">ThingWorx</a> using HTTP REST protocol.
 
 Install
 -------
