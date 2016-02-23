@@ -36,3 +36,7 @@ msg.payload = {
 
 The node contains a property, ThingName, which can be set when it is created. ThingName can be overridden by providing a msg.thingName property along with your payload.
 
+Below is a simple example flow:
+
+![Node-RED: A visual tool for wiring the Internet of Things](http://nodered.org/images/node-red-screenshot.png)
+
