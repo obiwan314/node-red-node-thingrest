@@ -38,5 +38,9 @@ The node contains a property, ThingName, which can be set when it is created. Th
 
 Below is a simple example flow:
 
-![Node-RED: A visual tool for wiring the Internet of Things](http://nodered.org/images/node-red-screenshot.png)
+![A sample flow updating two properties on the RedThing in a ThingWorx server.](https://raw.githubusercontent.com/obiwan314/node-red-node-thingrest/master/images/sample-flow.png)
+
+![The configuration for the Property Updates function.](https://raw.githubusercontent.com/obiwan314/node-red-node-thingrest/master/images/property-updates-dialog.png)
+
+![The configuration for the RedThing node.](https://raw.githubusercontent.com/obiwan314/node-red-node-thingrest/master/images/rest-thing-node.png)
 
