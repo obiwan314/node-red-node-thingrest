@@ -40,7 +40,13 @@ Below is a simple example flow:
 
 ![A sample flow updating two properties on the RedThing in a ThingWorx server.](https://raw.githubusercontent.com/obiwan314/node-red-node-thingrest/master/images/sample-flow.png)
 
+The Update Property Values is a simple Inject Node to start the property update.
+
+This is the configuration of the Function Node that sets the propoerty names and values to be updated.
+
 ![The configuration for the Property Updates function.](https://raw.githubusercontent.com/obiwan314/node-red-node-thingrest/master/images/property-updates-dialog.png)
+
+This is the configuration of the ThingRest node that performs the update.
 
 ![The configuration for the RedThing node.](https://raw.githubusercontent.com/obiwan314/node-red-node-thingrest/master/images/rest-thing-node.png)
 
