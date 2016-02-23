@@ -1,0 +1,29 @@
+{
+  "name": "node-red-node-thingrest",
+  "version": "1.0.0",
+  "description": "A Node-RED node to REST write property values to ThingWorx",
+  "dependencies": {
+    "follow-redirects": "0.0.6",
+    "mustache": "2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-red/node-red-nodes/tree/master/social/twitter"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "node-red",
+    "thingworx"
+  ],
+  "node-red": {
+    "nodes": {
+      "thingrest": "24-thingrest.js"
+    }
+  },
+  "author": {
+    "name": "William Reichardt",
+    "email": "Bill.Reichardt@thingworx.com",
+    "url": "https://community.thingworx.com/people/billrei"
+  },
+  "scripts": {}
+}

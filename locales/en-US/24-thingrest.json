@@ -1,0 +1,24 @@
+{
+  "thingrest": {
+    "label": {
+      "url": "Url",
+      "search": "Search",
+      "for": "for",
+      "user": "User",
+      "name": "Name"
+    },
+    "placeholder": {
+    },
+    "search": {
+      "public": "all public tweets",
+      "follow": "the tweets of who you follow",
+      "user": "the tweets of specific users",
+      "direct": "your direct messages"
+    },
+    "tip": {"cred":"<b>Tip:</b> Don't forget your server port number."},
+    "status": {
+    },
+    "errors": {
+    }
+  }
+}
